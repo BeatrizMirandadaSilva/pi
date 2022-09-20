@@ -1,3 +1,3 @@
 f = open('thePi.txt', 'r')
-pi = f.read()
+pi_string = f.read()
 f.close()
